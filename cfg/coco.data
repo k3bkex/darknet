@@ -1,0 +1,8 @@
+classes= 1
+train  = /home/yuhui/桌面/darknet-master/PascalVOC2012/2012_train.txt
+valid  =/home/yuhui/桌面/darknet-master/PascalVOC2012/2012_val.txt
+#valid = data/coco_val_5k.list
+names = data/coco.names
+backup = /home/yuhui/桌面/darknet-master/backup/
+eval=coco
+
